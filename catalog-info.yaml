@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: object-detection-model
-  description: Object detection model activates with a command word.
+  name: object-detection
+  description: Object detection model.
   annotations:
     github.com/project-slug: D3-jain/Object-Detection-with-Trigger-Word-using-Audio-Feedback
 spec:
